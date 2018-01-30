@@ -1,5 +1,5 @@
 == Git In Practice
 Chapter 1
 Git In Practice makes Git In Perfect!
-[[After Push Test]]
+[[Fetch Test]]
 // TODO:  Is this funny?
