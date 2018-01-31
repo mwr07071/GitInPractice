@@ -1,5 +1,5 @@
 == Git In Practice
 Chapter 1
 Git In Practice makes Git In Perfect!
-Here is a change made on the master branch
+Here is a change made together on the master and chapter-two branches
 // TODO:  Is this funny?
